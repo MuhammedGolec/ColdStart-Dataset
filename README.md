@@ -17,6 +17,12 @@ This dataset was created to simulate the occurrence of cold start in serverless 
 
 Environment Parameters for GCP-Cloud Functions are as follows:
 
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 |Trigger Type | HTTP|
 |RAM |  256Mb|
 |Software Language |  Python 3.11|
