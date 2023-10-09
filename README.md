@@ -29,10 +29,19 @@ Environment Parameters for GCP-Cloud Functions are as follows:
 # The Cold Start Dataset
 
 ![Dataset_Day_4](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/41e047b3-5998-4f7b-93c9-bca3d3533cab)
+Figure 1. The Cold Start Dataset for All Variables
 
+![Dataset_Day_4_Latency](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/8dd22d57-be4c-422a-9e1c-9e84435051b0)
+Figure 2. The Cold Start Dataset as Latency Variable
 
+![Dataset_Day_4_Memory_Usage](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/811ffe74-7155-4250-89e2-6049b7e7e775)
+Figure 3. The Cold Start Dataset as CPU Usage Variable
 
+![Dataset_Day_4_Memory_Usage](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/d60144bd-6079-487b-914e-6e0aecd14f4f)
 
+Figure 4. The Cold Start Dataset as Memory(RAM) Usage Variable
+
+In Figs 1,2,3 and 4, the cold start dataset is shown according to all variables, CPU and memory (RAM) Usage, respectively.
 
 # References
 
