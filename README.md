@@ -22,10 +22,7 @@ Environment Parameters for GCP-Cloud Functions are as follows:
 | ---      | ---       |
 | Trigger Type | HTTP  |
 | RAM     |256Mb     |
-| Pipe     | \|        |
-| Pipe     | \|        |
+| Software Language     | Python 3.11       |
+| Region     | Europe - west2b  |
 
-| | |
-| |  |
-|Software Language |  Python 3.11|
-|Region |  Europe - west2b|
+ 
