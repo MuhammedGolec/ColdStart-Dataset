@@ -25,4 +25,16 @@ Environment Parameters for GCP-Cloud Functions are as follows:
 | Software Language     | Python 3.11       |
 | Region     | Europe - west2b  |
 
+
+# The Cold Start Dataset
+
+
+
+
+
+
+# References
+
+1- Golec, Muhammed, et al. "HealthFaaS: AI-based Smart Healthcare System for Heart Patients using Serverless Computing." IEEE Internet of Things Journal (2023).
+2- Shilkov, Author: Mikhail. “Comparison of Cold Starts in Serverless Functions across AWS, Azure, and GCP.” Mikhail Shilkov, mikhail.io/serverless/coldstarts/big3/. Accessed 9 Oct. 2023. 
  
