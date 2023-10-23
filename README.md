@@ -38,13 +38,14 @@ Figure 2. The Cold Start Dataset as Latency Variable
 
 ![Dataset_Day_4_Memory_Usage](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/811ffe74-7155-4250-89e2-6049b7e7e775)
 
-Figure 3. The Cold Start Dataset as CPU Usage Variable
+Figure 3. The Cold Start Dataset as Memory(RAM) Usage Variable
 
-![Dataset_Day_4_Memory_Usage](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/d60144bd-6079-487b-914e-6e0aecd14f4f)
+![Dataset_Day_4_CPU_Usage](https://github.com/MuhammedGolec/Google-Cloud-Functions---Cold-Start-Dataset/assets/61287653/df83f7e1-3a35-496b-a1cd-8da7c0f91482)
 
-Figure 4. The Cold Start Dataset as Memory(RAM) Usage Variable
 
-In Figs 1,2,3 and 4, the cold start dataset is shown according to all variables, CPU and memory (RAM) Usage, respectively.
+Figure 4. The Cold Start Dataset as CPU Usage Variable 
+
+In Figs 1,2,3 and 4, the cold start dataset is shown according to all variables,  memory (RAM) and CPU Usage, respectively.
 
 # References
 
