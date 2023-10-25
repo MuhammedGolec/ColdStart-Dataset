@@ -11,7 +11,7 @@ This dataset was created to simulate the occurrence of cold start in serverless 
 * Day: Displays the current business day of the DateTime
 (1 - Monday, 2- Tuesday, 3- Wednesday, 4- Thursday, 5- Friday, 6- Saturday )
 
-* Latency: It indicates the time it takes for the request sent from the client to return after reaching the server. Therefore, the function includes execution time and cold start time. As a result of the observations, a cold start occurs if there are no requests to the server for more than 15 minutes or if more than 500 simultaneous requests come to the server. (In GCP Cloud Functions, containers are kept warm for up to 15 minutes to prevent cold start [2].)
+* Latency: It indicates the time it takes for the request sent from the client to return after reaching the server. Therefore, the function includes execution time and cold start time. As a result of the observations, a cold start occurs if there are no requests to the server for more than 15 minutes or if more than 200 simultaneous requests come to the server. (In GCP Cloud Functions, containers are kept warm for up to 15 minutes to prevent cold start [2].)
   
 * Request: Shows the number of simultaneous requests sent to the Server. It varies between 1 - 250.
   
