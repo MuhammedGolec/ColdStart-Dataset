@@ -11,7 +11,7 @@ This dataset was created to simulate the occurrence of cold start in serverless 
 * Day: Displays the current business day of the DateTime
 (1 - Monday, 2- Tuesday, 3- Wednesday, 4- Thursday, 5- Friday, 6- Saturday )
 
-* Latency: It indicates the time it takes for the request sent from the client to return after reaching the server. Therefore, the function includes execution time and cold start time. As a result of the observations, a cold start occurs if there are no requests to the server for more than 15 minutes or if more than 200 simultaneous requests come to the server. (In GCP Cloud Functions, containers are kept warm for up to 15 minutes to prevent cold start [2].)
+* Latency: It indicates the time it takes for the request sent from the client to return after reaching the server. Therefore, the function includes execution time and cold start time. As a result of the observations, a cold start occurs if there are no requests to the server for more than 15 minutes or if more than 200 simultaneous requests come to the server. (In GCP Cloud Functions, containers are kept warm for up to 15 minutes to prevent cold start [2]. Sudden increases in application load may cause a cold start [3].)
   
 * Request: Shows the number of simultaneous requests sent to the Server. It varies between 1 - 250.
   
@@ -59,4 +59,6 @@ In Figs 1,2,3 and 4, the cold start dataset is shown according to all variables,
 1- Golec, Muhammed, et al. "HealthFaaS: AI-based Smart Healthcare System for Heart Patients using Serverless Computing." IEEE Internet of Things Journal (2023).
 
 2- Shilkov, Author: Mikhail. “Comparison of Cold Starts in Serverless Functions across AWS, Azure, and GCP.” Mikhail Shilkov, mikhail.io/serverless/coldstarts/big3/. Accessed 9 Oct. 2023. 
+
+3- Shahrad, Mohammad, et al. "Serverless in the wild: Characterizing and optimizing the serverless workload at a large cloud provider." 2020 USENIX annual technical conference (USENIX ATC 20). 2020.
  
