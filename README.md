@@ -68,4 +68,10 @@ M. Golec et al., "ATOM: AI-Powered Sustainable Resource Management for Serverles
 2- Shilkov, Author: Mikhail. “Comparison of Cold Starts in Serverless Functions across AWS, Azure, and GCP.” Mikhail Shilkov, mikhail.io/serverless/coldstarts/big3/. Accessed 9 Oct. 2023. 
 
 3- Shahrad, Mohammad, et al. "Serverless in the wild: Characterizing and optimizing the serverless workload at a large cloud provider." 2020 USENIX annual technical conference (USENIX ATC 20). 2020.
+
+
+# License
+BSD-3-Clause. Copyright (c) 2023, Muhammed Golec. All rights reserved.
+
+See the License file for more details.
  
