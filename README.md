@@ -56,7 +56,7 @@ In Figs 1,2,3 and 4, the cold start dataset is shown according to all variables,
 
 
 # Cite this work
-Cite this work Our work is published in IEEE TSC journal. Cite using the following entry.
+This dataset is part of the following publication, please cite when using this dataset:
 
 M. Golec et al., "ATOM: AI-Powered Sustainable Resource Management for Serverless Edge Computing Environments," in IEEE Transactions on Sustainable Computing, doi: 10.1109/TSUSC.2023.3348157.
 
